@@ -1,0 +1,15 @@
+.navbar-light .navbar-nav .nav-link
+{
+    color: rgb(167, 64, 85);
+}
+.navbar-light .navbar-nav .nav-link.active-link
+{
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+.navbar-brand
+{
+    color: rgb(167, 64, 85);
+    font-style: italic;
+    font-weight: bold;
+}
